@@ -1,6 +1,6 @@
 {
-  "name": "cli_number_guessing_game_with_nawaz1977",
-  "version": "1.0.0",
+  "name": "code_with_nawaz77_cli_number_guessing_game",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",

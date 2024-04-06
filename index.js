@@ -1,4 +1,4 @@
-#!/user/bin/env node
+#!/usr/bin/env node
 import inquirer from "inquirer";
 console.log("welcome to code with Nawaz-CLI Guessing Game");
 const randomNumber = Math.floor(Math.random() * 5 + 1);
